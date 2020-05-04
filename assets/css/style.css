@@ -1,5 +1,5 @@
 body {
-    color: #a8a8a8 ;
+    color: #aaaaaa ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 /* apply style to <header> */
@@ -129,15 +129,18 @@ header h1 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    font-size: 35px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    
 }
 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    font-size: 35px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -147,36 +150,39 @@ header h1 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    font-size: 35px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 300px;
+    
 }
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 35px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 35px;
+    
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 35px;
 }
 
 .footer {
